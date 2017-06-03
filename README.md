@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+<h1><img alt="" width="48" height="48" src="resources/icon.png"/>HOSTS/Ad-Block &nbsp; <sub><a target="_blank" href="https://paypal.me/e1adkarak0" rel="nofollow"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" width="60" height="16" border="0" alt="PayPal Donation"></a></sub></h1>
 
-You can use the [editor on GitHub](https://github.com/eladkarako/hosts.eladkarako.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<img alt="" src="resources/icon.gif"/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br/>
 
-### Markdown
+Suggested usage: fork it, replace <code>/USERNAME/</code> with your GitHub-username, use links (direct download).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<pre>
+https://raw.githubusercontent.com/USERNAME/hosts.eladkarako.com/master/build/hosts.txt
+https://raw.githubusercontent.com/USERNAME/hosts.eladkarako.com/master/build/hosts0.txt
+https://raw.githubusercontent.com/USERNAME/hosts.eladkarako.com/master/build/hosts_adblock.txt
+https://raw.githubusercontent.com/USERNAME/hosts.eladkarako.com/master/build/hosts_adblock_anti_annoyances_hide.txt
+https://raw.githubusercontent.com/USERNAME/hosts.eladkarako.com/master/build/hosts_adblock_anti_annoyances_block.txt
+https://raw.githubusercontent.com/USERNAME/hosts.eladkarako.com/master/build/hosts_adblock_anti_annoyances_block_inline_script.txt
+https://raw.githubusercontent.com/USERNAME/hosts.eladkarako.com/master/build/hosts_adblock_anti_annoyances_style_inject.txt
+</pre>
 
-```markdown
-Syntax highlighted code block
+<hr/>
 
-# Header 1
-## Header 2
-### Header 3
+<strong>For developers</strong>, simply clone it into your <code>www/</code> folder,
+and you could use the following links in various ad-blocking extensions.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eladkarako/hosts.eladkarako.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<pre>
+http://localhost/hosts.eladkarako.com/build/hosts.txt
+http://localhost/hosts.eladkarako.com/build/hosts0.txt
+http://localhost/hosts.eladkarako.com/build/hosts_adblock.txt
+http://localhost/hosts.eladkarako.com/build/hosts_adblock_anti_annoyances_hide.txt
+http://localhost/hosts.eladkarako.com/build/hosts_adblock_anti_annoyances_block.txt
+http://localhost/hosts.eladkarako.com/build/hosts_adblock_anti_annoyances_block_inline_script.txt
+http://localhost/hosts.eladkarako.com/build/hosts_adblock_anti_annoyances_style_inject.txt
+</pre>
