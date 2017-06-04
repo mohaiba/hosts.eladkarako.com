@@ -367,7 +367,9 @@ ebay.com/*raptor.tracking*
 ebay.com/*trknvp
 ebay.com/_feedhome/feeds/after/
 ebay.com/rec/plmt/
+ebay.com/roverroi
 ebay.com/survey
+ebayrtm.com/clk
 ebaystatic.com/*/*MoneyBack*.jpg
 ebaystatic.com/*/pulsar.js
 ebaystatic.com/autosug
@@ -464,7 +466,6 @@ instagram.com/outbrain
 instagram.com/outbrainuxd
 instagram.com/rdx_sports
 instagram.com/taboola
-ir.ebaystatic.com/f/*.js
 ivory.co.il/files/banners
 iwanttodeliver
 iyogi.com/*/*banner*.jpg
