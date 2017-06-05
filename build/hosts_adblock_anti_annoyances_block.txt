@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Expires:        14 days
-! Last modified:  2017-06-03T20:28:03.000Z+00:00 UTC
-! Version:        20170603202803000
+! Last modified:  2017-06-03T00:11:23.000Z+00:00 UTC
+! Version:        20170603001123000
 ! Title:          HOSTS AdBlock - Anti-Annoyance - Block Annoying Connections
-! Rules:          684
+! Rules:          690
 ! Homepage:       http://hosts.eladkarako.com/
 ! Author:         http://hosts.eladkarako.com/humans.txt
 ! Forums:         https://github.com/eladkarako/hosts.eladkarako.com/issues/
@@ -199,6 +199,7 @@
 /measure.js
 /measure.min.js
 /measurement
+/napkinapi
 /netseer_dynamic_release.js
 /netseerads.js
 /newsletter
@@ -274,7 +275,6 @@
 78.138.126.253
 @@/analytics.js$domain=analytics.google.com
 @@192.168.0
-@@ebaystatic.com/*/s.gif
 @@eladkarako.com
 @@eladkarako.github.io
 @@gist.githubusercontent.com/eladkarako
@@ -288,7 +288,6 @@
 @@www.localhost.com
 @@xhamster.com/ajax/login.php$first-party
 @@ytimg.com/yts/img/favicon*.ico$image
-@ebaystatic.com/aw/pics/s.gif
 AdBlock-detection
 Ebay_Banners
 LiveChat
@@ -374,15 +373,21 @@ dx.com/*AdBanner
 dx.com/Content/img/help_icon.png
 dx.com/Pattaya
 dx.com/banner
+ebay*/sifr.html
 ebay.com/*raptor.tracking*
 ebay.com/*trknvp
 ebay.com/_feedhome/feeds/after/
 ebay.com/rec/plmt/
+ebay.com/roverimp
 ebay.com/roverroi
 ebay.com/survey
 ebayrtm.com/clk
 ebaystatic.com/*/*MoneyBack*.jpg
 ebaystatic.com/*/pulsar.js
+ebaystatic.com/*/s.gif
+ebaystatic.com/*Scandal*.js
+ebaystatic.com/*eBayBuyerProtection
+ebaystatic.com/*frame*.html
 ebaystatic.com/autosug
 ebaystatic.com/aw/pics/s.gif
 ebaystatic.com/f/wgp1j0iddmzdjjfgvr3dxrzz1i1.js
@@ -517,6 +522,7 @@ mintmark.co.il/appdata/public/wallaads
 morfix.co.il/External
 mssplus.mcafee.com/mssplus.txt
 nahala.co.il/mimisites
+napkin
 netanyanet.co.il/images/banners
 netek.co.il/banners
 networkworld.com/www/js/ads
