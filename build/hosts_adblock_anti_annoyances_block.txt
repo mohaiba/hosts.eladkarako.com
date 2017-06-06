@@ -3,7 +3,7 @@
 ! Last modified:  2017-06-05T16:15:40.000Z+00:00 UTC
 ! Version:        20170605161540000
 ! Title:          HOSTS AdBlock - Anti-Annoyance - Block Annoying Connections
-! Rules:          695
+! Rules:          696
 ! Homepage:       http://hosts.eladkarako.com/
 ! Author:         http://hosts.eladkarako.com/humans.txt
 ! Forums:         https://github.com/eladkarako/hosts.eladkarako.com/issues/
@@ -645,6 +645,7 @@ thepiratebay.org/*/exo*
 thepiratebay.org/static/js/p.js
 thepiratebay.org^$important,inline-script
 torrentproject.se/anti*.js
+tracker.js
 tracking.js
 tracking.min.js
 trafficjunky

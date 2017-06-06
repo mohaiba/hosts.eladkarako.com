@@ -634,6 +634,7 @@ thepiratebay.org/*/exo*
 thepiratebay.org/static/js/p.js
 thepiratebay.org^$important,inline-script
 torrentproject.se/anti*.js
+tracker.js
 tracking.js
 tracking.min.js
 trafficjunky
