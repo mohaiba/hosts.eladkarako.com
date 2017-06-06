@@ -12,6 +12,7 @@
 .mobi/
 .mx/
 .nz/
+.online/
 .pl/
 .tech/
 .tk/
@@ -182,6 +183,7 @@
 /jsErrorTrack
 /kidumKofetzService.asmx
 /link.php
+/loadAds.js
 /log
 /log_interaction
 /maavaron
