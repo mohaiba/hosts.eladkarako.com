@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Expires:        14 days
-! Last modified:  2017-06-03T00:11:23.000Z+00:00 UTC
-! Version:        20170603001123000
+! Last modified:  2017-06-05T16:15:40.000Z+00:00 UTC
+! Version:        20170605161540000
 ! Title:          HOSTS AdBlock - Anti-Annoyance - Block Annoying Connections
-! Rules:          690
+! Rules:          695
 ! Homepage:       http://hosts.eladkarako.com/
 ! Author:         http://hosts.eladkarako.com/humans.txt
 ! Forums:         https://github.com/eladkarako/hosts.eladkarako.com/issues/
@@ -14,10 +14,12 @@
 .ca/
 .ch/
 .cn/
+.fm/
 .ga/
 .gq/
 .gr/
 .info/
+.land/
 .mobi/
 .mx/
 .nz/
@@ -319,6 +321,7 @@ apis.google.com/*/*plusone*$important,third-party
 apis.google.com/*/fastbutton*$important,third-party
 apis.google.com/js/plusone.js
 apkmirror.com^$important,inline-script
+astrology
 awacs.co.il/extbanners
 banner_click
 bariladaat.com/*/123.png
@@ -460,6 +463,7 @@ haaretz.co.il/*/xx*.js
 haaretz.co.il/*/xxx1.js
 haaretz.co.il/logger
 haaretz.co.il/promotions-page
+horoscop
 hostgator
 htjs.php
 hwzone.co.il/*/hw_scripts.js
@@ -521,6 +525,7 @@ microsoft.com/c.gif
 mintmark.co.il/appdata/public/wallaads
 morfix.co.il/External
 mssplus.mcafee.com/mssplus.txt
+mysticism
 nahala.co.il/mimisites
 napkin
 netanyanet.co.il/images/banners
