@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Expires:        14 days
-! Last modified:  2017-06-06T13:29:01.000Z+00:00 UTC
-! Version:        20170606132901000
+! Last modified:  2017-06-09T22:42:49.000Z+00:00 UTC
+! Version:        20170609224249000
 ! Title:          HOSTS AdBlock - Anti-Annoyance - ReStyle Annoying Pages
-! Rules:          17
+! Rules:          18
 ! Homepage:       http://hosts.eladkarako.com/
 ! Author:         http://hosts.eladkarako.com/humans.txt
 ! Forums:         https://github.com/eladkarako/hosts.eladkarako.com/issues/
@@ -21,6 +21,7 @@ metro.co.uk##.article-body:style(width:100% !important;)
 metro.co.uk##[id^="post-content"]:style(width:100% !important;)
 robtex.com##section:style(margin:0 !important;)
 samanthabee.com##.site-content:style(margin:0 !important;)
+sammobile.com##body:style(padding-top:0 !important;)
 sb-innovation.de##div[style*="display: none;"]:style(display:block !important;)
 stackexchange.com,stackapps.com,askubuntu.com,serverfault.com,stackoverflow.com,superuser.com##.so-header._fixed:style(position:relative !important;)
 stackexchange.com,stackapps.com,askubuntu.com,serverfault.com,stackoverflow.com,superuser.com##.so-header:style(margin:0 !important;)

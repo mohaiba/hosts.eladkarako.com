@@ -183,6 +183,7 @@
 /jsErrorTrack
 /kidumKofetzService.asmx
 /link.php
+/linkid.js
 /loadAds.js
 /log
 /log_interaction
@@ -192,6 +193,7 @@
 /measure.js
 /measure.min.js
 /measurement
+/misc.php?do=analytics
 /napkinapi
 /netseer_dynamic_release.js
 /netseerads.js
@@ -348,7 +350,9 @@ dailymail.co.uk/*/maildating*.swf
 dailymail.co.uk/adstest
 dailymail.co.uk/static/mol-adverts
 dailymotion.com/sharer
+data: application/pdf;
 data: text/html;
+data:application/pdf;
 data:text/html;
 datacaciques.com/js/trackr.js
 datafilehost.com/demo
@@ -454,8 +458,12 @@ haaretz.co.il/*/xx*.js
 haaretz.co.il/*/xxx1.js
 haaretz.co.il/logger
 haaretz.co.il/promotions-page
+hc-sticky.js
+hc-sticky.min.js
 horoscop
 hostgator
+hover-intent.js
+hover-intent.min.js
 htjs.php
 hwzone.co.il/*/hw_scripts.js
 hwzone.co.il/cubicbig-banner-articles.js
@@ -483,8 +491,16 @@ iyogi.com/*/*banner*.jpg
 iyogi.com/*/*feedback*
 iyogi.com/etc/designs/browser-iyogi/images/opacity.png
 jobbox
+jquery.gfeed.js
+jquery.gfeed.min.js
 jquery.lazyload
+jquery.mousewheel.js
+jquery.mousewheel.min.js
 jquery.slimscroll
+jquery.touchSwipe.js
+jquery.touchSwipe.min.js
+jquery.transit.js
+jquery.transit.min.js
 jquery/store.min*js
 js.php
 khanacademy.org/api
@@ -594,6 +610,13 @@ s.imgur.com/min/rt*.js
 s3.amazonaws.com/r.kissinsights.com
 s3.amazonaws.com/trk.cetrk.com
 safaribooksonline.com/library/view/pageview.js
+sammobile.com/*animation-min.js
+sammobile.com/*ckeditor.js
+sammobile.com/*ckeditor_config.js
+sammobile.com/*default.js
+sammobile.com/*dragdrop-min.js
+sammobile.com/*tracking.js
+sammobile.com/*vbulletin_quick_comment.js
 scandalads
 scene7.com$domain=www.ebay.com
 script.crazyegg.com/pages/scripts/0004/4384.js
@@ -602,6 +625,8 @@ section.PopularSearches
 secure.33across.com/ps
 secureserver.net/image.aspx
 sharrre
+sharrre.js
+sharrre.min.js
 shemli.co.il/hebnames/res/images/askme/
 smartair-js.travelyo-cdn.site/js/
 social.s-msft.com/globalresources/Images/trans.gif
@@ -635,6 +660,7 @@ thepiratebay.org/*/ads*
 thepiratebay.org/*/exo*
 thepiratebay.org/static/js/p.js
 thepiratebay.org^$important,inline-script
+torrentproject.se/*.pdf
 torrentproject.se/anti*.js
 tracker.js
 tracking.js
