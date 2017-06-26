@@ -1,3 +1,4 @@
+doubleclick
 *$important,beacon
 .biz/
 .ca/
@@ -59,6 +60,7 @@
 /\/pagead\//
 /\/picserror\//
 /\/ping\//
+/\/pixel\//
 /\/plsr\//
 /\/stats\//
 /\/track\//
@@ -97,6 +99,7 @@
 /adsbygoogle
 /adsbygoogle.js
 /adsense/
+/adsrvmedia
 /adv
 /adver
 /advertisement
@@ -163,6 +166,7 @@
 /gen_204
 /generate_204
 /get-noapi-counts.php
+/getads
 /googleAnalytics.js
 /googletag.js
 /gpt.js
@@ -257,6 +261,7 @@
 /wta.html
 /wtid.js
 /www-search-ads.js
+/xpopup
 /za_widget
 /zeus
 104.197.199.227

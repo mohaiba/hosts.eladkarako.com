@@ -3,7 +3,7 @@
 ! Last modified:  2017-06-10T13:46:00.000Z+00:00 UTC
 ! Version:        20170610134600000
 ! Title:          HOSTS AdBlock - Anti-Annoyance - Block Annoying Connections
-! Rules:          724
+! Rules:          728
 ! Homepage:       http://hosts.eladkarako.com/
 ! Author:         http://hosts.eladkarako.com/humans.txt
 ! Forums:         https://github.com/eladkarako/hosts.eladkarako.com/issues/
@@ -70,6 +70,7 @@
 /\/pagead\//
 /\/picserror\//
 /\/ping\//
+/\/pixel\//
 /\/plsr\//
 /\/stats\//
 /\/track\//
@@ -108,6 +109,7 @@
 /adsbygoogle
 /adsbygoogle.js
 /adsense/
+/adsrvmedia
 /adv
 /adver
 /advertisement
@@ -174,6 +176,7 @@
 /gen_204
 /generate_204
 /get-noapi-counts.php
+/getads
 /googleAnalytics.js
 /googletag.js
 /gpt.js
@@ -268,6 +271,7 @@
 /wta.html
 /wtid.js
 /www-search-ads.js
+/xpopup
 /za_widget
 /zeus
 104.197.199.227
